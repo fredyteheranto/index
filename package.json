@@ -1,0 +1,73 @@
+{
+  "name": "portafolio-cv-fredyteheran",
+  "version": "1.0.0",
+  "description": "Pagina personal fredy teheran ",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fredyteheranto/index.git"
+  },
+  "keywords": [
+    "portafolio",
+    "pagina",
+    "dev",
+    "developer",
+    "coders",
+    "mysql",
+    "devs",
+    "#technology",
+    "#developers",
+    "security",
+    "programmers",
+    "#tech",
+    "javascript",
+    "#iot",
+    "#bigdata",
+    "cloud",
+    "devops",
+    "php",
+    "developer",
+    "programmer",
+    "engineer",
+    "big data",
+    "agile",
+    "app",
+    "programming",
+    "ios",
+    "maker",
+    "startups",
+    "developer's",
+    "java",
+    "#devops",
+    "startup"
+  ],
+  "author": "fredyteheranto",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fredyteheranto/index/issues"
+  },
+  "homepage": "https://github.com/fredyteheranto/index#readme",
+  "devDependencies": {
+    "browser-sync": "^2.24.6",
+    "del": "^2.0.2",
+    "gulp": "^3.9.1",
+    "gulp-autoprefixer": "latest",
+    "gulp-concat": "^2.3.4",
+    "gulp-cssmin": "^0.2.0",
+    "gulp-csso": "^2.0.0",
+    "gulp-htmlmin": "^3.0.0",
+    "gulp-imagemin": "^4.1.0",
+    "gulp-livereload": "^3.8.1",
+    "gulp-sass": "^2.0.0",
+    "gulp-uglify": "^2.0.0",
+    "imagemin-pngquant": "^6.0.0",
+    "run-sequence": "^1.2.2"
+  },
+  "dependencies": {
+    "fullpage.js": "^3.0.2",
+    "materialize-css": "^1.0.0-rc.2"
+  }
+}
